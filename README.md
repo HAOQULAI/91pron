@@ -13,9 +13,6 @@
 ````
 ini_set('memory_limit','2048M');	//调整最大占用内存
 ````
-
-如果需要不占用内存的版本，请下载<a href="https://github.com/zzjzz9266a/91porn_php/releases/tag/v1.0.0">v1.0.0</a>
-
 ### 基本使用
 `91porn.php`是爬取首页的视频，直接运行即可
 
