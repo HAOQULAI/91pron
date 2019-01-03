@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://github.com/zzjzz9266a/91porn_php"><img src="https://github.com/zzjzz9266a/91porn_php/blob/master/logo.jpg"></a>
+    <a href="https://github.com/lxlpokie/91pron"><img src="https://github.com/zzjzz9266a/91porn_php/blob/master/logo.jpg"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/zzjzz9266a/91porn_php"><img src="https://img.shields.io/badge/platform-all-lightgrey.svg"></a>
-    <a href="https://github.com/zzjzz9266a/91porn_php"><img src="https://img.shields.io/apm/l/vim-mode.svg"></a>
-    <a href="https://github.com/zzjzz9266a/91porn_php"><img src="https://img.shields.io/badge/language-php>=%205.6-orange.svg"></a>
+    <a href="https://github.com/lxlpokie/91pron"><img src="https://img.shields.io/badge/platform-all-lightgrey.svg"></a>
+    <a href="https://github.com/lxlpokie/91pron"><img src="https://img.shields.io/apm/l/vim-mode.svg"></a>
+    <a href="https://github.com/lxlpokie/91pron"><img src="https://img.shields.io/badge/language-php>=%205.6-orange.svg"></a>
 </p>
   
 ## 使用说明
